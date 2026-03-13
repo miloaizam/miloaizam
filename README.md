@@ -51,5 +51,3 @@ Actualmente me enfoco en mejorar mis habilidades como desarrollador, aprendiendo
 </p>
 
 ---
-
-⭐ Siempre abierto a colaborar en proyectos y aprender nuevas tecnologías.
