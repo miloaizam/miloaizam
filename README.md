@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Full%20Stack-1f2937?style=flat-square" />
     <img src="https://img.shields.io/badge/Backend-1f2937?style=flat-square" />
     <img src="https://img.shields.io/badge/Bases%20de%20datos-1f2937?style=flat-square" />
-    <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&label=Visitas&color=1f2937&style=flat-square" />
+    <img src="https://komarev.com/ghpvc/?username=miloaizam&label=Visitas&color=1f2937&style=flat-square" />
   </p>
 
 </div>
@@ -103,16 +103,6 @@ He trabajado en proyectos que integran **bases de datos relacionales, APIs y fro
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
-
-<!-- Divisor (degradado) -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 Estadísticas
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=miloaizam&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miloaizam&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
-</div>
 
 <!-- Divisor (degradado) -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
