@@ -26,13 +26,14 @@ He trabajado en proyectos que integran **bases de datos relacionales, APIs y fro
 #### Lenguajes
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,latex" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,latex" />
+  <img src="assets/icons/typst.svg" width="48" title="Typst" alt="Typst" />
 </p>
 
 #### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,astro,pinia,tailwind,bootstrap,vite" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,astro,pinia,tailwind,bootstrap,vite" />
 </p>
 
 #### Backend y APIs
@@ -54,6 +55,7 @@ He trabajado en proyectos que integran **bases de datos relacionales, APIs y fro
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,docker,linux,npm,pnpm" />
+  <img src="assets/icons/uv.svg" width="48" title="uv" alt="uv" />
 </p>
 
 ## Conecta conmigo
